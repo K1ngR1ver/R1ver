@@ -7,4 +7,4 @@ self.__uv$config = {
   bundle: "/assets/ultra/bundle.js?v=9-30-2024",
   config: "/assets/ultra/config.js?v=9-30-2024",
   sw: "/assets/ultra/sw.js?v=9-30-2024",
-};
+};$env:config=true; npm start
